@@ -1,0 +1,45 @@
+D:\用户目录\Documents\Visual Studio 2013\Projects\摇奖\摇奖\obj\Debug\摇奖.Form1.resources
+D:\用户目录\Documents\Visual Studio 2013\Projects\摇奖\摇奖\obj\Debug\摇奖.Properties.Resources.resources
+D:\用户目录\Documents\Visual Studio 2013\Projects\摇奖\摇奖\obj\Debug\摇奖.csproj.GenerateResource.Cache
+D:\用户目录\Documents\Visual Studio 2013\Projects\摇奖\摇奖\obj\Debug\摇奖.exe
+D:\用户目录\Documents\Visual Studio 2013\Projects\摇奖\摇奖\obj\Debug\摇奖.pdb
+D:\用户目录\Documents\Visual Studio 2013\Projects\摇奖\摇奖\bin\Debug\Resources\start.wav
+D:\用户目录\Documents\Visual Studio 2013\Projects\摇奖\摇奖\bin\Debug\Resources\stop.wav
+D:\用户目录\Documents\Visual Studio 2013\Projects\摇奖\摇奖\bin\Debug\Resources\bg.png
+D:\用户目录\Documents\Visual Studio 2013\Projects\摇奖\摇奖\bin\Debug\Resources\mid.png
+D:\用户目录\Documents\Visual Studio 2013\Projects\摇奖\摇奖\bin\Debug\摇奖.exe.manifest
+D:\用户目录\Documents\Visual Studio 2013\Projects\摇奖\摇奖\bin\Debug\摇奖.application
+D:\用户目录\Documents\Visual Studio 2013\Projects\摇奖\摇奖\bin\Debug\摇奖.exe
+D:\用户目录\Documents\Visual Studio 2013\Projects\摇奖\摇奖\bin\Debug\摇奖.pdb
+D:\用户目录\Documents\Visual Studio 2013\Projects\摇奖\摇奖\obj\Debug\摇奖.exe.manifest
+D:\用户目录\Documents\Visual Studio 2013\Projects\摇奖\摇奖\obj\Debug\摇奖.application
+D:\用户目录\Documents\Visual Studio 2013\Projects\摇奖\摇奖\bin\Debug\start.wav
+D:\用户目录\Documents\Visual Studio 2013\Projects\摇奖\摇奖\bin\Debug\stop.wav
+C:\Users\Administrator\Desktop\Projects\摇奖\摇奖\bin\Debug\start.wav
+C:\Users\Administrator\Desktop\Projects\摇奖\摇奖\bin\Debug\stop.wav
+C:\Users\Administrator\Desktop\Projects\摇奖\摇奖\bin\Debug\摇奖.exe.manifest
+C:\Users\Administrator\Desktop\Projects\摇奖\摇奖\bin\Debug\摇奖.application
+C:\Users\Administrator\Desktop\Projects\摇奖\摇奖\bin\Debug\摇奖.exe
+C:\Users\Administrator\Desktop\Projects\摇奖\摇奖\bin\Debug\摇奖.pdb
+C:\Users\Administrator\Desktop\Projects\摇奖\摇奖\obj\Debug\摇奖.Form1.resources
+C:\Users\Administrator\Desktop\Projects\摇奖\摇奖\obj\Debug\摇奖.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Projects\摇奖\摇奖\obj\Debug\摇奖.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Projects\摇奖\摇奖\obj\Debug\摇奖.exe.manifest
+C:\Users\Administrator\Desktop\Projects\摇奖\摇奖\obj\Debug\摇奖.application
+C:\Users\Administrator\Desktop\Projects\摇奖\摇奖\obj\Debug\摇奖.exe
+C:\Users\Administrator\Desktop\Projects\摇奖\摇奖\obj\Debug\摇奖.pdb
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\摇奖\摇奖\bin\Debug\摇奖.exe.config
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\摇奖\摇奖\obj\Debug\摇奖.exe
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\摇奖\摇奖\obj\Debug\摇奖.pdb
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\摇奖\摇奖\obj\Debug\摇奖.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\摇奖\摇奖\obj\Debug\摇奖.Form1.resources
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\摇奖\摇奖\obj\Debug\摇奖.Properties.Resources.resources
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\摇奖\摇奖\obj\Debug\摇奖.csproj.GenerateResource.Cache
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\摇奖\摇奖\bin\Debug\start.wav
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\摇奖\摇奖\bin\Debug\stop.wav
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\摇奖\摇奖\bin\Debug\摇奖.exe.manifest
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\摇奖\摇奖\bin\Debug\摇奖.application
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\摇奖\摇奖\bin\Debug\摇奖.exe
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\摇奖\摇奖\bin\Debug\摇奖.pdb
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\摇奖\摇奖\obj\Debug\摇奖.exe.manifest
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\摇奖\摇奖\obj\Debug\摇奖.application
