@@ -34,5 +34,5 @@
 # c#
 .vs/
 *.pfx
-bin/
-obj/
+**/bin/
+**/obj/
