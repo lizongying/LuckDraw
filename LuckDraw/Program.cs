@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Windows.Forms;
 
-namespace 摇奖
+namespace LuckDraw
 {
     static class Program
     {

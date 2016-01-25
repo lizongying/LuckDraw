@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Threading;
 
-namespace 摇奖
+namespace LuckDraw
 {
     public sealed class AutoDo
     {

@@ -1,4 +1,4 @@
-﻿namespace 摇奖
+﻿namespace LuckDraw
 {
     partial class Form1
     {
@@ -62,7 +62,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = global::摇奖.Properties.Resources.b;
+            this.BackgroundImage = global::LuckDraw.Properties.Resources.b;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(784, 561);
             this.Controls.Add(this.label2);

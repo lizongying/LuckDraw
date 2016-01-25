@@ -33,6 +33,7 @@
 
 # c#
 .vs/
+*.suo
 *.pfx
 **/bin/
 **/obj/
