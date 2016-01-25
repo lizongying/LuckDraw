@@ -33,7 +33,9 @@
 
 # c#
 .vs/
-*.suo
-*.pfx
 **/bin/
 **/obj/
+*.suo
+*.pfx
+*.csproj
+*.csproj.user

@@ -55,7 +55,7 @@
     <ManifestCertificateThumbprint>4BA0EBA874F148876308108A2483BEF691509221</ManifestCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestKeyFile>摇奖_1_TemporaryKey.pfx</ManifestKeyFile>
+    <ManifestKeyFile>LuckDraw_TemporaryKey.pfx</ManifestKeyFile>
   </PropertyGroup>
   <PropertyGroup>
     <GenerateManifests>false</GenerateManifests>
